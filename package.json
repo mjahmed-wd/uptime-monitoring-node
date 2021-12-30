@@ -1,0 +1,16 @@
+{
+  "name": "uptime-monitoring-node",
+  "version": "0.0",
+  "description": "uptime monitoring",
+  "main": "index.js",
+  "repository": "https://github.com/mjahmed-wd/uptime-monitoring-node.git",
+  "author": "Jubair",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
